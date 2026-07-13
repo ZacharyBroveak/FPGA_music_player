@@ -121,15 +121,17 @@ This repository is a curated subset of the full project — the RTL I authored p
 
 ---
 
+## Collaborators
+
+The modules in this repository are my individual contributions, but the full synthesizer was a team effort. redit for the surrounding work belongs to my teammates:
+
+- **[Joel Grayson]** ([@JoelGrayson](https://github.com/JoelGrayson)) — [keyboard piano and wave display]
+- **[Derek Maeshiro]** ([@derekmaeshiro](https://github.com/derekmaeshiro)) — [dynamics, echo, and rotary encoder]
+
+---
+
 ## Course context
 
 Final project for **EE 108 — Digital System Design**, Stanford University. The design was built and validated on a Xilinx FPGA development board (Vivado toolchain) with an ADAU1761 audio codec, HDMI video output, PS/2 keyboard input, and a PMOD rotary encoder. The diagrams in `block_diagrams/` are the design documentation submitted alongside the RTL.
-
-Collaborators
-
-The modules in this repository are my individual contributions, but the full synthesizer was a team effort. Credit for the surrounding work belongs to my teammates:
-
-[Joel Grayson] (@JoelGrayson) — [keyboard piano and wave display]
-[Derek Maeshiro] (@derekmaeshiro) — [dynamics, echo, and rotary encoder]
 
 **Author:** Zachary Broveak
