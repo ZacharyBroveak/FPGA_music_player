@@ -123,7 +123,7 @@ This repository is a curated subset of the full project — the RTL I authored p
 
 ## Collaborators
 
-The modules in this repository are my individual contributions, but the full synthesizer was a team effort. redit for the surrounding work belongs to my teammates:
+The modules in this repository are my individual contributions, but the full synthesizer was a team effort. Credit for the surrounding work belongs to my teammates:
 
 - **[Joel Grayson]** ([@JoelGrayson](https://github.com/JoelGrayson)) — [keyboard piano and wave display]
 - **[Derek Maeshiro]** ([@derekmaeshiro](https://github.com/derekmaeshiro)) — [dynamics, echo, and rotary encoder]
